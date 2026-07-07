@@ -1,0 +1,15 @@
+{
+  "name": "Decimus Precision",
+  "short_name": "Decimus Precision",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080D17",
+  "theme_color": "#080D17",
+  "icons": [
+    {
+      "src": "assets/img/5ea33f59f_dp-logo-01.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
